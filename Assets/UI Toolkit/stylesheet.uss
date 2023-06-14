@@ -1,0 +1,5 @@
+.default * {
+    position: absolute;
+    width: 25%;
+    height: 25%;
+}
