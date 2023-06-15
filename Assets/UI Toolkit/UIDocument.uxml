@@ -1,6 +1,6 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
     <Style src="project://database/Assets/UI%20Toolkit/stylesheet.uss?fileID=7433441132597879392&amp;guid=76164b3e96225a242930b76c40c46ed7&amp;type=3#stylesheet" />
-    <ui:VisualElement name="Container" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+    <ui:VisualElement name="Container" class="default" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
         <ui:VisualElement name="Background" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); position: absolute; width: 100%; height: 100%; background-image: url(&apos;project://database/Assets/Textures/Background_06.png?fileID=21300000&amp;guid=96274b6f4982041558dfdc5471747076&amp;type=3#Background_06&apos;);" />
         <ui:VisualElement name="Background" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); position: absolute; background-image: url(&apos;project://database/Assets/Textures/Background_02.png?fileID=21300000&amp;guid=1ba70e132f28941ed9977c1a213eb0a4&amp;type=3#Background_02&apos;); width: 100%; height: 100%;" />
     </ui:VisualElement>
